@@ -1,0 +1,19 @@
+We are looking for an AI Engineer Intern to help build user-facing LLM features.
+
+Requirements:
+- Strong Python fundamentals
+- Experience with FastAPI or backend web services
+- Familiarity with LangChain or LangGraph
+- Understanding of retrieval-augmented generation and prompt design
+- Strong communication and product thinking
+
+Nice to have:
+- Streamlit or rapid prototyping experience
+- Experience building student or personal portfolio projects
+
+Responsibilities:
+- Prototype AI workflows
+- Analyze product requirements
+- Build lightweight APIs and demos
+- Collaborate on testing and iteration
+

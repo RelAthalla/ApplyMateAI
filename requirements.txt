@@ -1,0 +1,14 @@
+fastapi
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+openai
+pydantic
+pypdf
+python-dotenv
+python-multipart
+streamlit
+typing-extensions
+uvicorn
+pytest

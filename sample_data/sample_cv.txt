@@ -1,0 +1,18 @@
+Jane Doe
+Computer Science Student
+
+SUMMARY
+Student builder focused on Python, backend APIs, and practical AI applications.
+
+EXPERIENCE
+- Built a FastAPI chatbot API for a campus FAQ assistant.
+- Created a document search prototype that chunked text files and retrieved relevant passages.
+- Worked on a machine learning assignment using scikit-learn for text classification.
+
+SKILLS
+Python, FastAPI, Streamlit, SQL, Git, prompt engineering, basic RAG workflows
+
+PROJECTS
+- AI Study Buddy: a small assistant that answers questions from uploaded lecture notes.
+- Internship Tracker: a dashboard for organizing applications and deadlines.
+

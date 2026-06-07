@@ -1,0 +1,2 @@
+"""ApplyMate AI package."""
+
